@@ -32,7 +32,7 @@ let package = Package(
         .package(url: "https://github.com/vapor/template-kit.git", from: "1.0.0"),
 
         // 📝 Parses and serializes url-encoded form data with Codable support.
-        .package(url: "https://github.com/pcmoritz/url-encoded-form.git", from: "1.0.4"),
+        .package(url: "https://github.com/pcmoritz/url-encoded-form.git", from: "1.0.5"),
 
         // ✅ Extensible data validation library (email, alphanumeric, UUID, etc)
         .package(url: "https://github.com/vapor/validation.git", from: "2.0.0"),
