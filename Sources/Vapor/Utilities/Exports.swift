@@ -4,6 +4,7 @@
 @_exported import Core
 @_exported import Console
 @_exported import Command
+@_exported import DatabaseKit
 @_exported import HTTP
 @_exported import Logging
 @_exported import Multipart
